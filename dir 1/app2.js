@@ -1,1 +1,2 @@
-app2.js
+console.log(123);
+console.log("Hello");
